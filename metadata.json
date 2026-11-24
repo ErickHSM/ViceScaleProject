@@ -1,0 +1,8 @@
+{
+  "name": "Remix ScaleClip",
+  "description": "Plataforma de criação e teste de templates de vídeos curtos para TikTok, Reels e Shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
